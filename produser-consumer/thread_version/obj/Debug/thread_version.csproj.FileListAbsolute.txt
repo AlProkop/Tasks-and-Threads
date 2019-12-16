@@ -1,0 +1,28 @@
+D:\olli\platform\win\ass2\thread_version\obj\Debug\thread_version.csprojAssemblyReference.cache
+D:\olli\platform\win\ass2\thread_version\obj\Debug\thread_version.csproj.CoreCompileInputs.cache
+D:\olli\platform\win\ass2\thread_version\bin\Debug\thread_version.exe.config
+D:\olli\platform\win\ass2\thread_version\bin\Debug\thread_version.exe
+D:\olli\platform\win\ass2\thread_version\bin\Debug\thread_version.pdb
+D:\olli\platform\win\ass2\thread_version\obj\Debug\thread_version.exe
+D:\olli\platform\win\ass2\thread_version\obj\Debug\thread_version.pdb
+C:\Users\Al\Documents\LAMK\Al-19K\Olli cSharp\ass2\thread_version\bin\Debug\thread_version.exe.config
+C:\Users\Al\Documents\LAMK\Al-19K\Olli cSharp\ass2\thread_version\bin\Debug\thread_version.exe
+C:\Users\Al\Documents\LAMK\Al-19K\Olli cSharp\ass2\thread_version\bin\Debug\thread_version.pdb
+C:\Users\Al\Documents\LAMK\Al-19K\Olli cSharp\ass2\thread_version\obj\Debug\thread_version.csprojAssemblyReference.cache
+C:\Users\Al\Documents\LAMK\Al-19K\Olli cSharp\ass2\thread_version\obj\Debug\thread_version.csproj.CoreCompileInputs.cache
+C:\Users\Al\Documents\LAMK\Al-19K\Olli cSharp\ass2\thread_version\obj\Debug\thread_version.exe
+C:\Users\Al\Documents\LAMK\Al-19K\Olli cSharp\ass2\thread_version\obj\Debug\thread_version.pdb
+D:\ass2\thread_version\bin\Debug\thread_version.exe.config
+D:\ass2\thread_version\bin\Debug\thread_version.exe
+D:\ass2\thread_version\bin\Debug\thread_version.pdb
+D:\ass2\thread_version\obj\Debug\thread_version.csprojAssemblyReference.cache
+D:\ass2\thread_version\obj\Debug\thread_version.csproj.CoreCompileInputs.cache
+D:\ass2\thread_version\obj\Debug\thread_version.exe
+D:\ass2\thread_version\obj\Debug\thread_version.pdb
+C:\Users\Aliaksei17001\Documents\ass2\thread_version\bin\Debug\thread_version.exe.config
+C:\Users\Aliaksei17001\Documents\ass2\thread_version\bin\Debug\thread_version.exe
+C:\Users\Aliaksei17001\Documents\ass2\thread_version\bin\Debug\thread_version.pdb
+C:\Users\Aliaksei17001\Documents\ass2\thread_version\obj\Debug\thread_version.csprojAssemblyReference.cache
+C:\Users\Aliaksei17001\Documents\ass2\thread_version\obj\Debug\thread_version.csproj.CoreCompileInputs.cache
+C:\Users\Aliaksei17001\Documents\ass2\thread_version\obj\Debug\thread_version.exe
+C:\Users\Aliaksei17001\Documents\ass2\thread_version\obj\Debug\thread_version.pdb

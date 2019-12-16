@@ -1,0 +1,14 @@
+D:\ass2\task_version\bin\Debug\task_version.exe.config
+D:\ass2\task_version\bin\Debug\task_version.exe
+D:\ass2\task_version\bin\Debug\task_version.pdb
+D:\ass2\task_version\obj\Debug\task_version.csprojAssemblyReference.cache
+D:\ass2\task_version\obj\Debug\task_version.csproj.CoreCompileInputs.cache
+D:\ass2\task_version\obj\Debug\task_version.exe
+D:\ass2\task_version\obj\Debug\task_version.pdb
+C:\Users\Aliaksei17001\Documents\ass2\task_version\bin\Debug\task_version.exe.config
+C:\Users\Aliaksei17001\Documents\ass2\task_version\bin\Debug\task_version.exe
+C:\Users\Aliaksei17001\Documents\ass2\task_version\bin\Debug\task_version.pdb
+C:\Users\Aliaksei17001\Documents\ass2\task_version\obj\Debug\task_version.csprojAssemblyReference.cache
+C:\Users\Aliaksei17001\Documents\ass2\task_version\obj\Debug\task_version.csproj.CoreCompileInputs.cache
+C:\Users\Aliaksei17001\Documents\ass2\task_version\obj\Debug\task_version.exe
+C:\Users\Aliaksei17001\Documents\ass2\task_version\obj\Debug\task_version.pdb
